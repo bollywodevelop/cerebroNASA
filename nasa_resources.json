@@ -1,0 +1,131 @@
+{
+  "system": "KALEB",
+  "category": "SITIOS DE LA NASA",
+  "updated": "2026-09-28",
+  "resources": [
+    {
+      "name": "NASA",
+      "type": "APP",
+      "official": "https://www.nasa.gov/nasa-app/",
+      "googlePlay": "https://play.google.com/store/apps/details?id=gov.nasa"
+    },
+    {
+      "name": "Earth Now",
+      "type": "APP",
+      "official": "https://science.nasa.gov/eyes/earth-now/",
+      "googlePlay": "https://play.google.com/store/apps/details?id=gov.nasa.jpl.earthnow.activity"
+    },
+    {
+      "name": "GLOBE Observer",
+      "type": "APP",
+      "official": "https://observer.globe.gov/",
+      "googlePlay": "https://play.google.com/store/apps/details?id=gov.nasa.globe.observer"
+    },
+    {
+      "name": "ISS Explorer",
+      "type": "APP",
+      "official": "https://www.nasa.gov/apps/",
+      "googlePlay": "https://play.google.com/store/apps/details?id=gov.nasa.jsc.igoal.ISSExplorer"
+    },
+    {
+      "name": "NASA Science: Humans in Space",
+      "type": "APP",
+      "official": "https://www.nasa.gov/apps/",
+      "googlePlay": "https://play.google.com/store/apps/developer?id=NASA"
+    },
+    {
+      "name": "Spot the Station",
+      "type": "APP",
+      "official": "https://www.nasa.gov/spot-the-station/",
+      "googlePlay": "https://play.google.com/store/apps/developer?id=NASA"
+    },
+    {
+      "name": "Spacecraft AR",
+      "type": "APP",
+      "official": "https://science.nasa.gov/eyes/spacecraft-ar/",
+      "googlePlay": "https://play.google.com/store/apps/developer?id=NASA"
+    },
+    {
+      "name": "To the Moon and Beyond",
+      "type": "APP",
+      "official": "https://www.nasa.gov/apps/",
+      "googlePlay": "https://play.google.com/store/apps/developer?id=NASA"
+    },
+    {
+      "name": "WeatherSats AR",
+      "type": "APP",
+      "official": "https://www.nasa.gov/apps/",
+      "googlePlay": "https://play.google.com/store/apps/developer?id=NASA"
+    },
+    {
+      "name": "NASA Science",
+      "type": "WEB",
+      "official": "https://science.nasa.gov/"
+    },
+    {
+      "name": "NASA Eyes",
+      "type": "WEB",
+      "official": "https://science.nasa.gov/eyes/"
+    },
+    {
+      "name": "NASA Apps",
+      "type": "WEB",
+      "official": "https://www.nasa.gov/apps/"
+    },
+    {
+      "name": "NASA Software",
+      "type": "WEB",
+      "official": "https://www.nasa.gov/software/"
+    },
+    {
+      "name": "NASA Software Catalog",
+      "type": "WEB",
+      "official": "https://software.nasa.gov/"
+    },
+    {
+      "name": "NASA Science Data Portal",
+      "type": "WEB",
+      "official": "https://science.data.nasa.gov/"
+    },
+    {
+      "name": "NASA Image and Video Library",
+      "type": "WEB",
+      "official": "https://www.nasa.gov/stem-content/nasa-image-and-video-library/"
+    },
+    {
+      "name": "NASA Open Science",
+      "type": "WEB",
+      "official": "https://science.nasa.gov/open-science/"
+    },
+    {
+      "name": "Eyes on the Solar System",
+      "type": "INTERACTIVE",
+      "official": "https://eyes.nasa.gov/apps/solar-system/"
+    },
+    {
+      "name": "Eyes on Asteroids",
+      "type": "INTERACTIVE",
+      "official": "https://eyes.nasa.gov/apps/asteroids/"
+    },
+    {
+      "name": "Eyes on the Earth",
+      "type": "INTERACTIVE",
+      "official": "https://eyes.nasa.gov/apps/earth/"
+    },
+    {
+      "name": "Eyes on Exoplanets",
+      "type": "INTERACTIVE",
+      "official": "https://eyes.nasa.gov/apps/exo/"
+    },
+    {
+      "name": "DSN Now",
+      "type": "INTERACTIVE",
+      "official": "https://eyes.nasa.gov/dsn/dsn.html"
+    },
+    {
+      "name": "Mars Relay Network",
+      "type": "INTERACTIVE",
+      "official": "https://eyes.nasa.gov/apps/mars-relay-network/"
+    }
+  ]
+}

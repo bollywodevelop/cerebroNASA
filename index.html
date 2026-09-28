@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KALEB | Cerebro de la NASA</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="hud">
+  <div class="project">WINNERS TAKE IT ALL</div>
+  <div class="title">CEREBRO DE LA NASA</div>
+  <div class="status"><span class="indicator"></span><span id="statusText">SINAPSIS NEURALES ACTIVAS</span></div>
+</div>
+
+<div id="searchPanel" class="panel">
+  <div class="panel-title">NEURAL DATABASE</div>
+  <input id="searchInput" type="search" placeholder="Buscar proyecto, tema o país..." autocomplete="off">
+  <div class="filters">
+    <select id="themeFilter"><option value="">TODOS LOS TEMAS</option></select>
+    <select id="countryFilter"><option value="">TODOS LOS PAÍSES</option></select>
+  </div>
+  <div id="searchResults" class="search-results"></div>
+</div>
+
+<canvas id="brain"></canvas>
+
+<div id="legend" class="panel">
+  <div class="legend-title">NEURAL SPECTRUM</div>
+  <div class="legend-help">CLIC EN UN COLOR PARA ABRIR SU CARPETA</div>
+  <div id="legendItems"></div>
+</div>
+
+<div id="nasaResources" class="panel">
+  <div class="panel-title">SITIOS DE LA NASA</div>
+  <div class="legend-help">SITIOS OFICIALES · APPS · GOOGLE PLAY</div>
+  <div id="nasaResourceList"></div>
+</div>
+
+<div id="synapseControl" class="panel">
+  <span class="switch-label">SINAPSIS</span>
+  <button id="synapseSwitch" class="switch on" type="button" aria-pressed="true" title="Mostrar u ocultar sinapsis">
+    <span></span>
+  </button>
+  <span id="synapseState">VISIBLES</span>
+</div>
+
+<div id="data">
+  <div>NEURAL CORE</div>
+  <div id="nodeCount">NEURONAS: 0</div>
+  <div id="synapseCount">SINAPSIS: 0</div>
+  <div id="signalCount">SEÑALES: 0</div>
+</div>
+
+<div id="boot">
+  <div>INITIALIZING NEURAL CORE</div>
+  <div id="bootText">CONECTANDO 342 NEURONAS...</div>
+</div>
+
+<div id="selection" class="panel">
+  <div class="selection-title">NEURAL CONNECTION</div>
+  <div id="selectedInfo">SELECCIONA UNA NEURONA</div>
+  <button id="copyNeuron" class="copy-btn" type="button" disabled>COPIAR INFORMACIÓN</button>
+</div>
+
+<script src="kaleb.js"></script>
+</body>
+</html>
